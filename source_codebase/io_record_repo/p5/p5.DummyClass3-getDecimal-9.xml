@@ -1,0 +1,11 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass3-getDecimal()D</methodKey>
+  <id>9</id>
+  <sortedInputs>
+    <double>10.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <double>10.0</double>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

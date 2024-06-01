@@ -1,0 +1,51 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass2-setListOfNumbers(java.util.Lis)V</methodKey>
+  <id>20</id>
+  <sortedInputs>
+    <list>
+      <int>15</int>
+      <int>2</int>
+      <int>13</int>
+      <int>7</int>
+      <int>126</int>
+      <int>45</int>
+      <int>295</int>
+      <int>28</int>
+      <int>201</int>
+      <int>39</int>
+      <int>27</int>
+      <int>94</int>
+      <int>21</int>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type></type>
+        <value>0</value>
+        <numOperations>0</numOperations>
+        <listOfItems/>
+        <listOfNumbers>
+          <int>15</int>
+          <int>2</int>
+          <int>13</int>
+          <int>7</int>
+          <int>126</int>
+          <int>45</int>
+          <int>295</int>
+          <int>28</int>
+          <int>201</int>
+          <int>39</int>
+          <int>27</int>
+          <int>94</int>
+          <int>21</int>
+        </listOfNumbers>
+        <probability>0.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>913</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

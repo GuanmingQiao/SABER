@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.OriginalClass-originalMethod(Ljava.util.List;I)I</methodKey>
+  <stackInfo>originalMethod:test1:main</stackInfo>
+  <id>9</id>
+  <sortedInputs>
+    <int>2</int>
+  </sortedInputs>
+  <sortedOutputs/>
+  <stamp>SABER_1328037091_1583698251024_originalMethod_1</stamp>
+</pojo.IORecord>

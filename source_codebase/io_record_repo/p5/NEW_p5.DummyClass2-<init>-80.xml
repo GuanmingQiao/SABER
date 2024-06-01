@@ -1,0 +1,20 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass2-&lt;init&gt;()V</methodKey>
+  <id>80</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type></type>
+        <value>0</value>
+        <numOperations>0</numOperations>
+        <listOfItems/>
+        <listOfNumbers/>
+        <probability>0.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

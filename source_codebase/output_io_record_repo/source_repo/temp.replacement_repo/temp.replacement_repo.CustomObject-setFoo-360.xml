@@ -1,0 +1,18 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>temp.replacement_repo.CustomObject-setFoo(Ljava.lang.String;)V</methodKey>
+  <stackInfo>setFoo:test1_SABER_635115106_1583698251006_getFoo_1:main</stackInfo>
+  <id>360</id>
+  <sortedInputs>
+    <string></string>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="temp.replacement_repo.CustomObject">
+        <value>0</value>
+        <foo></foo>
+      </obj>
+      <deepHash>0</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

@@ -1,0 +1,23 @@
+<pojo.IORecord>
+  <methodKey>xml.XMLParser-&lt;init&gt;(Ljava.lang.String;)V</methodKey>
+  <stackInfo>&lt;init&gt;:test2_SABER_635115106_1583698251006_setFoo_1:main</stackInfo>
+  <id>291</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="xml.XMLParser">
+        <newInput>
+          <methodKey>temp.replacement_repo.CustomObject-setFoo(Ljava.lang.String;)V</methodKey>
+          <stackInfo>setFoo:test2:main</stackInfo>
+          <id>12</id>
+          <sortedInputs>
+            <string>[-22, -22, -22]</string>
+          </sortedInputs>
+          <sortedOutputs/>
+          <stamp>SABER_635115106_1583698251006_setFoo_1</stamp>
+        </newInput>
+      </obj>
+      <deepHash>1278482637</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

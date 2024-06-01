@@ -1,0 +1,14 @@
+<pojo.IORecord>
+  <methodKey>xml.BConverter-canConvert(Ljava.lang.Class;)Z</methodKey>
+  <stackInfo>canConvert:lookupConverterForType:lookupConverterForType:convertAnother:convertAnother:start:unmarshal:unmarshal:unmarshal:fromXML:fromXML:getIORecord:&lt;init&gt;:test5_SABER_635115106_1583698251006_getValue_1:main</stackInfo>
+  <id>11</id>
+  <sortedInputs>
+    <xml.XMLWrapper>
+      <obj class="java-class">pojo.IORecord</obj>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+  </sortedInputs>
+  <sortedOutputs>
+    <int>0</int>
+  </sortedOutputs>
+</pojo.IORecord>

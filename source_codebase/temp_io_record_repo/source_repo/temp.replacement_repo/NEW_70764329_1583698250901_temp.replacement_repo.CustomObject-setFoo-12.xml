@@ -1,0 +1,17 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-setFoo(Ljava.lang.String;)V</methodKey>
+  <stackInfo>setFoo:test2:main</stackInfo>
+  <id>12</id>
+  <sortedInputs>
+    <string>temp.replacement_repo.CustomObject</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="temp.replacement_repo.CustomObject">
+        <value>0</value>
+        <foo>temp.replacement_repo.CustomObject</foo>
+      </obj>
+      <deepHash>-1246095963</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass2-getProbability()D</methodKey>
+  <id>18</id>
+  <sortedInputs>
+    <double>-1.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <double>-1.0</double>
+  </sortedOutputs>
+</pojo.IORecord>

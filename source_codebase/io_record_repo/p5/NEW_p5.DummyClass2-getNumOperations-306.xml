@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass2-getNumOperations()I</methodKey>
+  <id>306</id>
+  <sortedInputs>
+    <int>0</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <int>0</int>
+  </sortedOutputs>
+</pojo.IORecord>

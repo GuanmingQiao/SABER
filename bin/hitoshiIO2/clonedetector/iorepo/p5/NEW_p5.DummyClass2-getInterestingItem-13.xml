@@ -1,0 +1,14 @@
+<IORecord>
+  <methodKey>p5.DummyClass2-getInterestingItem(java.lang.String)java/lang/String</methodKey>
+  <id>13</id>
+  <sortedInputs>
+    <string>Justin</string>
+    <int>9</int>
+    <int>16</int>
+    <int>20</int>
+    <string>Undergrad</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>9JustinUndergrad2016</string>
+  </sortedOutputs>
+</IORecord>

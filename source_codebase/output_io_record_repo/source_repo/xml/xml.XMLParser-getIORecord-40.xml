@@ -1,0 +1,31 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>xml.XMLParser-getIORecord(Ljava.io.File;)Lpojo/IORecord;</methodKey>
+  <stackInfo>getIORecord:&lt;init&gt;:test5_SABER_1328037091_1583698251024_getValue_2:main</stackInfo>
+  <id>40</id>
+  <sortedInputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="file">/Users/adityasridhar/Documents/COLUMBIA/SABER/source_codebase/xml_file_dump/TEST_COLUMBIA_SABER_xmlFileDump_SABER_1328037091_1583698251024_getValue_2.xml</obj>
+      <deepHash>-1835466825</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="xml.XMLParser"/>
+      <deepHash>0</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="pojo.IORecord">
+        <methodKey>temp.replacement_repo.CustomObject-getValue()I</methodKey>
+        <stackInfo>getValue:test5:main</stackInfo>
+        <id>23</id>
+        <sortedInputs>
+          <int>2</int>
+        </sortedInputs>
+        <sortedOutputs/>
+        <stamp>SABER_1328037091_1583698251024_getValue_2</stamp>
+      </obj>
+      <deepHash>1795528325</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

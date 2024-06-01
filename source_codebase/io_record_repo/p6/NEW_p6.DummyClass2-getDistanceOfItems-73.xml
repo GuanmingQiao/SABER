@@ -1,0 +1,30 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass2-getDistanceOfItems()D</methodKey>
+  <id>73</id>
+  <sortedInputs>
+    <double>0.0</double>
+    <list>
+      <string></string>
+      <string></string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p6.DummyClass2">
+        <name>hi!</name>
+        <type>hi!</type>
+        <value>35</value>
+        <numOperations>1</numOperations>
+        <listOfItems>
+          <string></string>
+          <string></string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>-1.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>-1074687132</deepHash>
+    </xml.XMLWrapper>
+    <double>0.0</double>
+  </sortedOutputs>
+</pojo.IORecord>

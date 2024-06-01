@@ -1,0 +1,15 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.OriginalClass-objectMethod(Ljava.util.List;Ltemp.replacement_repo.CustomObject;)Ljava/lang/String;</methodKey>
+  <stackInfo>objectMethod:test5:main</stackInfo>
+  <id>22</id>
+  <sortedInputs>
+    <linked-list>
+      <int>-22</int>
+      <int>-22</int>
+      <int>-22</int>
+    </linked-list>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>list size greater than 2</string>
+  </sortedOutputs>
+</pojo.IORecord>

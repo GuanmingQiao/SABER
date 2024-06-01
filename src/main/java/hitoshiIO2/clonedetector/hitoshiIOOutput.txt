@@ -1,0 +1,3493 @@
+17.10.19 18:45:02 INFO e.c.c.p.i.d.IODriver [main] Configuration: 
+17.10.19 18:45:02 INFO e.c.c.p.i.d.IODriver [main] Debug: false
+Call limit: 50
+Float scale: 2
+
+17.10.19 18:45:02 INFO e.c.c.p.i.d.IODriver [main] Loading class info
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Connect to sqlite: cb
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 5000
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 10000
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 15000
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 20000
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 25000
+17.10.19 18:45:02 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 30000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 10000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 20000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 30000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 40000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 50000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 60000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 70000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 80000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 90000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 100000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 110000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 120000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 130000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 140000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 150000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 160000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 170000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 180000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 190000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 200000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 210000
+17.10.19 18:45:03 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 220000
+17.10.19 18:45:03 INFO e.c.c.p.i.d.IODriver [main] Bytecodebase path: ../bytecodebase2/
+Bytecodebase: ../bytecodebase2/
+Class: p5.DummyClass2Test
+Loading the following class in IODriver: p5.DummyClass2Test
+Name of method in visitMethod: <init>
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test <init> ()V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@6ee12bac]
+Name of method in visitMethod: testAddName
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test testAddName ()V
+Parameter info: []
+Name of method in visitMethod: testUpdateValue
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test testUpdateValue ()V
+Parameter info: []
+Name of method in visitMethod: testInterestingItem
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test testInterestingItem ()V
+Parameter info: []
+Name of method in visitMethod: testDistanceOfItems
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test testDistanceOfItems ()V
+Parameter info: []
+Name of method in visitMethod: testInsertionSort
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test testInsertionSort ()V
+Parameter info: []
+Name of method in visitMethod: main
+Descriptor of method: ([Ljava/lang/String;)V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test main ([Ljava/lang/String;)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@5bf0d49]
+Name of method in visitMethod: <clinit>
+Descriptor of method: ()V
+Type of class: p5/DummyClass2Test
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2Test <clinit> ()V
+Parameter info: []
+17.10.19 18:45:03 INFO e.c.c.p.i.d.IODriver [main] Executing main method for p5.DummyClass2Test
+Inside IO Record...
+Method key: p5.DummyClass2Test-<clinit>()V, is static: true
+Created a new record with ID: 0
+Register output: 1.0E-7
+Ending: 0
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 1.0E-7
+Not removing object class java.lang.Double 1.0E-7
+Pass removal check
+Object hash code: -1530496838
+Object toString: 1.0E-7
+Object type: class java.lang.Double
+Summarize writtens
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 1.0E-7
+Not removing object class java.lang.Double 1.0E-7
+Inside IO Record...
+Method key: p5.DummyClass2Test-main([java.lang.Strin)V, is static: true
+Created a new record with ID: 1
+Inside IO Record...
+Method key: p5.DummyClass2Test-testAddName()V, is static: true
+Created a new record with ID: 2
+Name of method in visitMethod: <init>
+Descriptor of method: ()V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 <init> ()V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@2aceadd4]
+Name of method in visitMethod: <init>
+Descriptor of method: (Ljava/lang/String;Ljava/lang/String;IILjava/util/List;D)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 <init> (Ljava/lang/String;Ljava/lang/String;IILjava/util/List;D)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@5c90e579, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@58ea606c, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@6f45df59, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@38e79ae3, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@63070bab, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@68e5eea7, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@291b4bf5]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getName
+Descriptor of method: ()Ljava/lang/String;
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getName ()Ljava/lang/String;
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@610f7aa]
+Name of method in visitMethod: setName
+Descriptor of method: (Ljava/lang/String;)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setName (Ljava/lang/String;)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@fa36558, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@672872e1]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getType
+Descriptor of method: ()Ljava/lang/String;
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getType ()Ljava/lang/String;
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@37f1104d]
+Name of method in visitMethod: setType
+Descriptor of method: (Ljava/lang/String;)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setType (Ljava/lang/String;)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@45ca843, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@11c9af63]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getValue
+Descriptor of method: ()I
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getValue ()I
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@6bf0219d]
+Name of method in visitMethod: setValue
+Descriptor of method: (I)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setValue (I)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@1329eff, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@6497b078]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getNumOperations
+Descriptor of method: ()I
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getNumOperations ()I
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@6f27a732]
+Name of method in visitMethod: setNumOperations
+Descriptor of method: (I)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setNumOperations (I)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@37858383, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@4e268090]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getListOfItems
+Descriptor of method: ()Ljava/util/List;
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getListOfItems ()Ljava/util/List;
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@2892dae4]
+Name of method in visitMethod: setListOfItems
+Descriptor of method: (Ljava/util/List;)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setListOfItems (Ljava/util/List;)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@3972a855, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@62e7f11d]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getListOfNumbers
+Descriptor of method: ()Ljava/util/List;
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getListOfNumbers ()Ljava/util/List;
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@7690781]
+Name of method in visitMethod: setListOfNumbers
+Descriptor of method: (Ljava/util/List;)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setListOfNumbers (Ljava/util/List;)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@65f095f8, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@59af0466]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getProbability
+Descriptor of method: ()D
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getProbability ()D
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@3738449f]
+Name of method in visitMethod: setProbability
+Descriptor of method: (D)V
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 setProbability (D)V
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@2f8dad04, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@29e495ff]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getDistanceOfItems
+Descriptor of method: ()D
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getDistanceOfItems ()D
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@793be5ca]
+Name of method in visitMethod: addToAndReturnUpdatedValue
+Descriptor of method: (IILjava/lang/String;)I
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 addToAndReturnUpdatedValue (IILjava/lang/String;)I
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@429bffaa, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@5403f35f, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@483f6d77, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@7e5afaa6]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: getInterestingItem
+Descriptor of method: (Ljava/lang/String;I)Ljava/lang/String;
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 getInterestingItem (Ljava/lang/String;I)Ljava/lang/String;
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@3b6ddd1d, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@3f6b0be5, edu.columbia.cs.psl.ioclones.pojo.ParamInfo@611889f4]
+In FlowMethodObserver, visiting VAR instruction. Registering input!
+Name of method in visitMethod: insertionSort
+Descriptor of method: ()Ljava/util/List;
+Type of class: p5/DummyClass2
+17.10.19 18:45:03 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing p5/DummyClass2 insertionSort ()Ljava/util/List;
+Parameter info: [edu.columbia.cs.psl.ioclones.pojo.ParamInfo@27f981c6]
+Inside IO Record...
+Method key: p5.DummyClass2-<init>()V, is static: false
+Created a new record with ID: 3
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 3
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 3
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 3
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 3
+Is input: true
+Queue in written: p5.DummyClass2@29215f06
+Summarize writtens
+Register output: p5.DummyClass2@29215f06
+Ending: 3
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@29215f06
+Not removing object class p5.DummyClass2 p5.DummyClass2@29215f06
+Pass removal check
+Object hash code: 690052870
+Object toString: p5.DummyClass2@29215f06
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Black object (in blackObject): p5.DummyClass2@29215f06
+ID of record (in blackObject): 2
+Inside IO Record...
+Method key: p5.DummyClass2-setName(java.lang.Strin)V, is static: false
+Created a new record with ID: 4
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 4
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 4
+Is input: true
+Register input with param: Justin 1
+Register input: Justin
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Queue in written: p5.DummyClass2@29215f06
+Summarize writtens
+Register output: p5.DummyClass2@29215f06
+Ending: 4
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@29215f06
+Not removing object class p5.DummyClass2 p5.DummyClass2@29215f06
+Pass removal check
+Object hash code: 690052870
+Object toString: p5.DummyClass2@29215f06
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@84ed6331
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@84ed6331
+Inside IO Record...
+Method key: p5.DummyClass2-getName()java/lang/String, is static: false
+Created a new record with ID: 5
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 5
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 5
+Is input: true
+Registr value from input: Justin
+Register input: Justin
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Register output: Justin
+Ending: 5
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Summarize writtens
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Justin
+Inside IO Record...
+Method key: p5.DummyClass2-getName()java/lang/String, is static: false
+Created a new record with ID: 6
+Probe object (in probeOwner): p5.DummyClass2@29215f06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 6
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 690052870, toString = p5.DummyClass2@29215f06
+ID of record (in probeOwner): 6
+Is input: true
+Registr value from input: Justin
+Register input: Justin
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Register output: Justin
+Ending: 6
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Summarize writtens
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Summarize writtens
+Inside IO Record...
+Method key: p5.DummyClass2Test-testUpdateValue()V, is static: true
+Created a new record with ID: 7
+Inside IO Record...
+Method key: p5.DummyClass2-<init>()V, is static: false
+Created a new record with ID: 8
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 8
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 8
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 8
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 8
+Is input: true
+Queue in written: p5.DummyClass2@79dc5318
+Summarize writtens
+Register output: p5.DummyClass2@79dc5318
+Ending: 8
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@79dc5318
+Not removing object class p5.DummyClass2 p5.DummyClass2@79dc5318
+Pass removal check
+Object hash code: 2044482328
+Object toString: p5.DummyClass2@79dc5318
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Black object (in blackObject): p5.DummyClass2@79dc5318
+ID of record (in blackObject): 7
+Inside IO Record...
+Method key: p5.DummyClass2-setValue()V, is static: false
+Created a new record with ID: 9
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 9
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 9
+Is input: true
+Register input with param: 25 1
+Register input: 25
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 25
+Not removing object class java.lang.Integer 25
+Pass removal check
+Object hash code: 25
+Object toString: 25
+Object type: class java.lang.Integer
+Queue in written: p5.DummyClass2@79dc5318
+Summarize writtens
+Register output: p5.DummyClass2@79dc5318
+Ending: 9
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@79dc5318
+Not removing object class p5.DummyClass2 p5.DummyClass2@79dc5318
+Pass removal check
+Object hash code: 2044482328
+Object toString: p5.DummyClass2@79dc5318
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 25
+Not removing object class java.lang.Integer 25
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@19
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@19
+Inside IO Record...
+Method key: p5.DummyClass2-addToAndReturnUpdatedValue(IIjava.lang.Strin)I, is static: false
+Created a new record with ID: 10
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 10
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 10
+Is input: true
+Registr value from input: 25
+Register input: 25
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 25
+Not removing object class java.lang.Integer 25
+Pass removal check
+Object hash code: 25
+Object toString: 25
+Object type: class java.lang.Integer
+Register input with param: 12 1
+Register input: 12
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 12
+Not removing object class java.lang.Integer 12
+Pass removal check
+Object hash code: 12
+Object toString: 12
+Object type: class java.lang.Integer
+Register input with param: Hello World 3
+Register input: Hello World
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Hello World
+Not removing object class java.lang.String Hello World
+Pass removal check
+Object hash code: -862545276
+Object toString: Hello World
+Object type: class java.lang.String
+Probe object (in probeOwner): p5.DummyClass2@79dc5318
+Black object (in probeOwner): []
+ID of record (in probeOwner): 10
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 2044482328, toString = p5.DummyClass2@79dc5318
+ID of record (in probeOwner): 10
+Is input: true
+Registr value from input: 48
+Register input: 48
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 48
+Not removing object class java.lang.Integer 48
+Pass removal check
+Object hash code: 48
+Object toString: 48
+Object type: class java.lang.Integer
+Register output: 48
+Ending: 10
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 48
+Not removing object class java.lang.Integer 48
+Pass removal check
+Object hash code: 48
+Object toString: 48
+Object type: class java.lang.Integer
+Queue in written: p5.DummyClass2@79dc5318
+Summarize writtens
+Register output: p5.DummyClass2@79dc5318
+Ending: 10
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@79dc5318
+Not removing object class p5.DummyClass2 p5.DummyClass2@79dc5318
+Pass removal check
+Object hash code: 2044482328
+Object toString: p5.DummyClass2@79dc5318
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 48
+Not removing object class java.lang.Integer 48
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Hello World
+Not removing object class java.lang.String Hello World
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 25
+Not removing object class java.lang.Integer 25
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 12
+Not removing object class java.lang.Integer 12
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 48
+Not removing object class java.lang.Integer 48
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@30
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@30
+48
+Summarize writtens
+Inside IO Record...
+Method key: p5.DummyClass2Test-testInterestingItem()V, is static: true
+Created a new record with ID: 11
+Black object (in blackObject): []
+ID of record (in blackObject): 11
+Inside IO Record...
+Method key: p5.DummyClass2-<init>(java.lang.Stringjava.lang.StringIIjava.util.List)V, is static: false
+Created a new record with ID: 12
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): []
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): []
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): []
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): []
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): []
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): []
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 12
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 12
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Register input with param: Justin 1
+Register input: Justin
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Register input with param: Undergrad 2
+Register input: Undergrad
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Undergrad
+Not removing object class java.lang.String Undergrad
+Pass removal check
+Object hash code: 976863494
+Object toString: Undergrad
+Object type: class java.lang.String
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Register input with param: 20 3
+Register input: 20
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 20
+Not removing object class java.lang.Integer 20
+Pass removal check
+Object hash code: 20
+Object toString: 20
+Object type: class java.lang.Integer
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Register input with param: 16 4
+Register input: 16
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 16
+Not removing object class java.lang.Integer 16
+Pass removal check
+Object hash code: 16
+Object toString: 16
+Object type: class java.lang.Integer
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Register input with param: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder] 5
+Register input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Foo
+Not removing object class java.lang.String Foo
+Pass removal check
+Object hash code: -274250722
+Object toString: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class java.util.ArrayList, hash code = -274250722, toString = [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+ID of record (in probeOwner): 12
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 12
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 12
+Is input: true
+Register input with param: 0.38 6
+Register input: 0.38
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 0.38
+Not removing object class java.lang.Double 0.38
+Pass removal check
+Object hash code: -1161369159
+Object toString: 0.38
+Object type: class java.lang.Double
+Queue in written: p5.DummyClass2@63611043
+Summarize writtens
+Register output: p5.DummyClass2@63611043
+Ending: 12
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@63611043
+Not removing object class p5.DummyClass2 p5.DummyClass2@63611043
+Pass removal check
+Object hash code: 1667305539
+Object toString: p5.DummyClass2@63611043
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 16
+Not removing object class java.lang.Integer 16
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 20
+Not removing object class java.lang.Integer 20
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Foo
+Not removing object class java.lang.String Foo
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Undergrad
+Not removing object class java.lang.String Undergrad
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 0.38
+Not removing object class java.lang.Double 0.38
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@53774d83
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@53774d83
+Black object (in blackObject): p5.DummyClass2@63611043
+ID of record (in blackObject): 11
+Inside IO Record...
+Method key: p5.DummyClass2-getInterestingItem(java.lang.String)java/lang/String, is static: false
+Created a new record with ID: 13
+Black object (in blackObject): 
+ID of record (in blackObject): 13
+Register input with param: 9 2
+Register input: 9
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 9
+Not removing object class java.lang.Integer 9
+Pass removal check
+Object hash code: 9
+Object toString: 9
+Object type: class java.lang.Integer
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [9]
+ID of record (in probeOwner): 13
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 252738640, toString = [9]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 13
+Is input: true
+Registr value from input: Justin
+Register input: Justin
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+Pass removal check
+Object hash code: -2064817359
+Object toString: Justin
+Object type: class java.lang.String
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [9Justin]
+ID of record (in probeOwner): 13
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 252738640, toString = [9Justin]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 13
+Is input: true
+Registr value from input: Undergrad
+Register input: Undergrad
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Undergrad
+Not removing object class java.lang.String Undergrad
+Pass removal check
+Object hash code: 976863494
+Object toString: Undergrad
+Object type: class java.lang.String
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [9JustinUndergrad]
+ID of record (in probeOwner): 13
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 252738640, toString = [9JustinUndergrad]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 13
+Is input: true
+Registr value from input: 20
+Register input: 20
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 20
+Not removing object class java.lang.Integer 20
+Pass removal check
+Object hash code: 20
+Object toString: 20
+Object type: class java.lang.Integer
+Probe object (in probeOwner): p5.DummyClass2@63611043
+Black object (in probeOwner): [9JustinUndergrad20]
+ID of record (in probeOwner): 13
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 252738640, toString = [9JustinUndergrad20]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1667305539, toString = p5.DummyClass2@63611043
+ID of record (in probeOwner): 13
+Is input: true
+Registr value from input: 16
+Register input: 16
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 16
+Not removing object class java.lang.Integer 16
+Pass removal check
+Object hash code: 16
+Object toString: 16
+Object type: class java.lang.Integer
+Register output: 9JustinUndergrad2016
+Ending: 13
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String 9JustinUndergrad2016
+Not removing object class java.lang.String 9JustinUndergrad2016
+Pass removal check
+Object hash code: 1300566655
+Object toString: 9JustinUndergrad2016
+Object type: class java.lang.String
+Summarize writtens
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 16
+Not removing object class java.lang.Integer 16
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 20
+Not removing object class java.lang.Integer 20
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 9
+Not removing object class java.lang.Integer 9
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Justin
+Not removing object class java.lang.String Justin
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Undergrad
+Not removing object class java.lang.String Undergrad
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String 9JustinUndergrad2016
+Not removing object class java.lang.String 9JustinUndergrad2016
+9JustinUndergrad2016
+Summarize writtens
+Inside IO Record...
+Method key: p5.DummyClass2Test-testDistanceOfItems()V, is static: true
+Created a new record with ID: 14
+Black object (in blackObject): []
+ID of record (in blackObject): 14
+Inside IO Record...
+Method key: p5.DummyClass2-<init>()V, is static: false
+Created a new record with ID: 15
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 15
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 15
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 15
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 15
+Is input: true
+Queue in written: p5.DummyClass2@51133c06
+Summarize writtens
+Register output: p5.DummyClass2@51133c06
+Ending: 15
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@51133c06
+Not removing object class p5.DummyClass2 p5.DummyClass2@51133c06
+Pass removal check
+Object hash code: 1360215046
+Object toString: p5.DummyClass2@51133c06
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Black object (in blackObject): p5.DummyClass2@51133c06
+ID of record (in blackObject): 14
+Inside IO Record...
+Method key: p5.DummyClass2-setListOfItems(java.util.Lis)V, is static: false
+Created a new record with ID: 16
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 16
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 16
+Is input: true
+Register input with param: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder] 1
+Register input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Foo
+Not removing object class java.lang.String Foo
+Pass removal check
+Object hash code: -274250722
+Object toString: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Black object (in probeOwner): []
+ID of record (in probeOwner): 16
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class java.util.ArrayList, hash code = -274250722, toString = [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+ID of record (in probeOwner): 16
+Is input: true
+Queue in written: p5.DummyClass2@51133c06
+Summarize writtens
+Register output: p5.DummyClass2@51133c06
+Ending: 16
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@51133c06
+Not removing object class p5.DummyClass2 p5.DummyClass2@51133c06
+Pass removal check
+Object hash code: 1360215046
+Object toString: p5.DummyClass2@51133c06
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Foo
+Not removing object class java.lang.String Foo
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@d9893f6f
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@d9893f6f
+Inside IO Record...
+Method key: p5.DummyClass2-getDistanceOfItems()D, is static: false
+Created a new record with ID: 17
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 17
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 17
+Is input: true
+Registr value from input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Register input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Foo
+Not removing object class java.lang.String Foo
+Pass removal check
+Object hash code: -274250722
+Object toString: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 17
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 17
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@51133c06
+Black object (in probeOwner): []
+ID of record (in probeOwner): 17
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1360215046, toString = p5.DummyClass2@51133c06
+ID of record (in probeOwner): 17
+Is input: true
+Registr value from input: 42.83689998120779
+Register input: 42.83689998120779
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 42.83689998120779
+Not removing object class java.lang.Double 42.83689998120779
+Pass removal check
+Object hash code: -911881055
+Object toString: 42.83689998120779
+Object type: class java.lang.Double
+Register output: 42.83689998120779
+Ending: 17
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 42.83689998120779
+Not removing object class java.lang.Double 42.83689998120779
+Pass removal check
+Object hash code: -911881055
+Object toString: 42.83689998120779
+Object type: class java.lang.Double
+Queue in written: p5.DummyClass2@51133c06
+Summarize writtens
+Register output: p5.DummyClass2@51133c06
+Ending: 17
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@51133c06
+Not removing object class p5.DummyClass2 p5.DummyClass2@51133c06
+Pass removal check
+Object hash code: 1360215046
+Object toString: p5.DummyClass2@51133c06
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 42.83689998120779
+Not removing object class java.lang.Double 42.83689998120779
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.String Foo
+Not removing object class java.lang.String Foo
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Double 42.83689998120779
+Not removing object class java.lang.Double 42.83689998120779
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@388679d8
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@388679d8
+42.83689998120779
+Summarize writtens
+Inside IO Record...
+Method key: p5.DummyClass2Test-testInsertionSort()V, is static: true
+Created a new record with ID: 18
+Black object (in blackObject): []
+ID of record (in blackObject): 18
+Inside IO Record...
+Method key: p5.DummyClass2-<init>()V, is static: false
+Created a new record with ID: 19
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 19
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Black object (in blackObject): []
+ID of record (in blackObject): 19
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): [[]]
+ID of record (in probeOwner): 19
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 1, toString = [[]]
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 19
+Is input: true
+Queue in written: p5.DummyClass2@7393222f
+Summarize writtens
+Register output: p5.DummyClass2@7393222f
+Ending: 19
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@7393222f
+Not removing object class p5.DummyClass2 p5.DummyClass2@7393222f
+Pass removal check
+Object hash code: 1939022383
+Object toString: p5.DummyClass2@7393222f
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0
+Black object (in blackObject): p5.DummyClass2@7393222f
+ID of record (in blackObject): 18
+Inside IO Record...
+Method key: p5.DummyClass2-setListOfNumbers(java.util.Lis)V, is static: false
+Created a new record with ID: 20
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 20
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 20
+Is input: true
+Register input with param: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21] 1
+Register input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 15
+Not removing object class java.lang.Integer 15
+Pass removal check
+Object hash code: -1794523102
+Object toString: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Black object (in probeOwner): []
+ID of record (in probeOwner): 20
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class java.util.ArrayList, hash code = -1794523102, toString = [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+ID of record (in probeOwner): 20
+Is input: true
+Queue in written: p5.DummyClass2@7393222f
+Summarize writtens
+Register output: p5.DummyClass2@7393222f
+Ending: 20
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class p5.DummyClass2 p5.DummyClass2@7393222f
+Not removing object class p5.DummyClass2 p5.DummyClass2@7393222f
+Pass removal check
+Object hash code: 1939022383
+Object toString: p5.DummyClass2@7393222f
+Object type: class p5.DummyClass2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 15
+Not removing object class java.lang.Integer 15
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@391
+Not removing object class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@391
+Inside IO Record...
+Method key: p5.DummyClass2-insertionSort()java/util/List, is static: false
+Created a new record with ID: 21
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 15
+Not removing object class java.lang.Integer 15
+Pass removal check
+Object hash code: -1794523102
+Object toString: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 15
+Not removing object class java.lang.Integer 15
+Pass removal check
+Object hash code: -1794523102
+Object toString: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 15
+Not removing object class java.lang.Integer 15
+Pass removal check
+Object hash code: -1794523102
+Object toString: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -597175960
+Object toString: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -597175960
+Object toString: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -597175960
+Object toString: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 15, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 15, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 15, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 103888618
+Object toString: [2, 15, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -154276820
+Object toString: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -154276820
+Object toString: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -154276820
+Object toString: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 13, 15, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 13, 15, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 15, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -1726384860
+Object toString: [2, 13, 15, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 13, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 13, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1867517858
+Object toString: [2, 13, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1093021544
+Object toString: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1093021544
+Object toString: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1093021544
+Object toString: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1093021544
+Object toString: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1093021544
+Object toString: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1093021544
+Object toString: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 126, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 126, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 526737911
+Object toString: [2, 7, 13, 15, 126, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901661350
+Object toString: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901661350
+Object toString: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901661350
+Object toString: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901661350
+Object toString: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901661350
+Object toString: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901661350
+Object toString: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 295, 295, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 295, 295, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -44289925
+Object toString: [2, 7, 13, 15, 45, 126, 295, 295, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 126, 126, 295, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 126, 126, 295, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 291443346
+Object toString: [2, 7, 13, 15, 45, 126, 126, 295, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 45, 45, 126, 295, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 45, 45, 126, 295, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 45, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 857726979
+Object toString: [2, 7, 13, 15, 45, 45, 126, 295, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1519681778
+Object toString: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1519681778
+Object toString: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1519681778
+Object toString: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 295, 295, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 295, 295, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 295, 295, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1606492752
+Object toString: [2, 7, 13, 15, 28, 45, 126, 295, 295, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -1084647442
+Object toString: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -1084647442
+Object toString: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -1084647442
+Object toString: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 295, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -1077020946
+Object toString: [2, 7, 13, 15, 28, 45, 126, 201, 295, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 201, 201, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 201, 201, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -1163831920
+Object toString: [2, 7, 13, 15, 28, 45, 126, 201, 201, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 126, 126, 201, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 126, 126, 201, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 983949051
+Object toString: [2, 7, 13, 15, 28, 45, 126, 126, 201, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 45, 45, 126, 201, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 45, 45, 126, 201, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 45, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 2110594922
+Object toString: [2, 7, 13, 15, 28, 45, 45, 126, 201, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 243667504
+Object toString: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 243667504
+Object toString: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 243667504
+Object toString: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 295, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 243925052
+Object toString: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 241124698
+Object toString: [2, 7, 13, 15, 28, 39, 45, 126, 201, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 126, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 126, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 171860623
+Object toString: [2, 7, 13, 15, 28, 39, 45, 126, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 45, 45, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 45, 45, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -2147100608
+Object toString: [2, 7, 13, 15, 28, 39, 45, 45, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 39, 39, 45, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 28, 39, 39, 45, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 1117811898
+Object toString: [2, 7, 13, 15, 28, 39, 39, 45, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 28, 28, 39, 45, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 28, 28, 39, 45, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 28, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -873232603
+Object toString: [2, 7, 13, 15, 28, 28, 39, 45, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 934221860
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 934221860
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 934221860
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 295, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 295, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 934228091
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 295, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 201, 295, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 201, 295, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 934137757
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 201, 295, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 126, 201, 295, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 126, 201, 295, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 126, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 931903432
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 126, 126, 201, 295, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 902350760
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 902350760
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 902350760
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 295]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 902351034
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 201, 295]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 902348120
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 126, 201, 295]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 902276045
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 901322733
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 94, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 45, 45, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 27, 28, 39, 45, 45, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 856070204
+Object toString: [2, 7, 13, 15, 27, 28, 39, 45, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 39, 39, 45, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 27, 28, 39, 39, 45, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 684295298
+Object toString: [2, 7, 13, 15, 27, 28, 39, 39, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 28, 28, 39, 45, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 27, 28, 28, 39, 45, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: -488310601
+Object toString: [2, 7, 13, 15, 27, 28, 28, 39, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 27, 27, 28, 39, 45, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 27, 27, 28, 39, 45, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 2063846360
+Object toString: [2, 7, 13, 15, 27, 27, 28, 39, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 23671250
+Object toString: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Probe object (in probeOwner): p5.DummyClass2@7393222f
+Black object (in probeOwner): []
+ID of record (in probeOwner): 21
+Info about black object (in probeOwner): Type: class java.util.HashSet, hash code = 0, toString = []
+Info about probe object (in probeOwner): Type: class p5.DummyClass2, hash code = 1939022383, toString = p5.DummyClass2@7393222f
+ID of record (in probeOwner): 21
+Is input: true
+Registr value from input: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Register input: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Register obj: true
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 23671250
+Object toString: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Register output: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Ending: 21
+Register obj: false
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Pass removal check
+Object hash code: 23671250
+Object toString: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Object type: class java.util.ArrayList
+Summarize writtens
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 126, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 295, 295, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 126, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 28, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 39, 45, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 15, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 45, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 295, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 45, 126, 295, 295, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 45, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 15
+Not removing object class java.lang.Integer 15
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 201, 295, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 126, 201, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 295, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 27, 28, 39, 45, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 13, 15, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.util.ArrayList [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+In shouldRemove method...checking if the object should be removed
+I/O object in the method: class java.lang.Integer 2
+Not removing object class java.lang.Integer 2
+Black object (in blackObject): []
+ID of record (in blackObject): 18
+[2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295]
+Summarize writtens
+Summarize writtens
+17.10.19 18:45:03 INFO e.c.c.p.i.d.IODriver [main] IODriver completed successfully.
+ShutdownLogger-0: Reporting IOs
+ShutdownLogger-0: Total number of records: 22
+Record Number: 1, Record ID: 0, Method Key: p5.DummyClass2Test-<clinit>()V
+Record Number: 2, Record ID: 3, Method Key: p5.DummyClass2-<init>()V
+Record Number: 3, Record ID: 4, Method Key: p5.DummyClass2-setName(java.lang.Strin)V
+Record Number: 4, Record ID: 5, Method Key: p5.DummyClass2-getName()java/lang/String
+Record Number: 5, Record ID: 6, Method Key: p5.DummyClass2-getName()java/lang/String
+Record Number: 6, Record ID: 2, Method Key: p5.DummyClass2Test-testAddName()V
+Record Number: 7, Record ID: 8, Method Key: p5.DummyClass2-<init>()V
+Record Number: 8, Record ID: 9, Method Key: p5.DummyClass2-setValue()V
+Record Number: 9, Record ID: 10, Method Key: p5.DummyClass2-addToAndReturnUpdatedValue(IIjava.lang.Strin)I
+Record Number: 10, Record ID: 7, Method Key: p5.DummyClass2Test-testUpdateValue()V
+Record Number: 11, Record ID: 12, Method Key: p5.DummyClass2-<init>(java.lang.Stringjava.lang.StringIIjava.util.List)V
+Record Number: 12, Record ID: 13, Method Key: p5.DummyClass2-getInterestingItem(java.lang.String)java/lang/String
+Record Number: 13, Record ID: 11, Method Key: p5.DummyClass2Test-testInterestingItem()V
+Record Number: 14, Record ID: 15, Method Key: p5.DummyClass2-<init>()V
+Record Number: 15, Record ID: 16, Method Key: p5.DummyClass2-setListOfItems(java.util.Lis)V
+Record Number: 16, Record ID: 17, Method Key: p5.DummyClass2-getDistanceOfItems()D
+Record Number: 17, Record ID: 14, Method Key: p5.DummyClass2Test-testDistanceOfItems()V
+Record Number: 18, Record ID: 19, Method Key: p5.DummyClass2-<init>()V
+Record Number: 19, Record ID: 20, Method Key: p5.DummyClass2-setListOfNumbers(java.util.Lis)V
+Record Number: 20, Record ID: 21, Method Key: p5.DummyClass2-insertionSort()java/util/List
+Record Number: 21, Record ID: 18, Method Key: p5.DummyClass2Test-testInsertionSort()V
+Record Number: 22, Record ID: 1, Method Key: p5.DummyClass2Test-main([java.lang.Strin)V
+ShutdownLogger-0: Methods: p5.DummyClass2-<init>(java.lang.Stringjava.lang.StringIIjava.util.List)V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 12
+Input: Justin, type: class java.lang.String
+Input: 0.38, type: class java.lang.Double
+Input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder], type: class java.util.ArrayList
+Input: 16, type: class java.lang.Integer
+Input: 20, type: class java.lang.Integer
+Input: Undergrad, type: class java.lang.String
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@53774d83, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-addToAndReturnUpdatedValue(IIjava.lang.Strin)I
+ShutdownLogger-0: # of records: 1
+ID of IO record: 10
+Input: Hello World, type: class java.lang.String
+Input: 12, type: class java.lang.Integer
+Input: 25, type: class java.lang.Integer
+Input: 48, type: class java.lang.Integer
+Output: 48, type: class java.lang.Integer
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@30, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-setListOfNumbers(java.util.Lis)V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 20
+Input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@391, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-<init>()V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 3
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@0, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-getDistanceOfItems()D
+ShutdownLogger-0: # of records: 1
+ID of IO record: 17
+Input: 42.83689998120779, type: class java.lang.Double
+Input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder], type: class java.util.ArrayList
+Output: 42.83689998120779, type: class java.lang.Double
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@388679d8, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2Test-<clinit>()V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 0
+Output: 1.0E-7, type: class java.lang.Double
+ShutdownLogger-0: Methods: p5.DummyClass2-getName()java/lang/String
+ShutdownLogger-0: # of records: 1
+ID of IO record: 5
+Input: Justin, type: class java.lang.String
+Output: Justin, type: class java.lang.String
+ShutdownLogger-0: Methods: p5.DummyClass2-setListOfItems(java.util.Lis)V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 16
+Input: [Foo, Article, Chocolate is awesome, Wonderful, Beauty is in the eye of the beholder], type: class java.util.ArrayList
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@d9893f6f, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-setName(java.lang.Strin)V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 4
+Input: Justin, type: class java.lang.String
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@84ed6331, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-getInterestingItem(java.lang.String)java/lang/String
+ShutdownLogger-0: # of records: 1
+ID of IO record: 13
+Input: Justin, type: class java.lang.String
+Input: 9, type: class java.lang.Integer
+Input: 16, type: class java.lang.Integer
+Input: 20, type: class java.lang.Integer
+Input: Undergrad, type: class java.lang.String
+Output: 9JustinUndergrad2016, type: class java.lang.String
+ShutdownLogger-0: Methods: p5.DummyClass2-setValue()V
+ShutdownLogger-0: # of records: 1
+ID of IO record: 9
+Input: 25, type: class java.lang.Integer
+Output: edu.columbia.cs.psl.ioclones.pojo.XMLWrapper@19, type: class edu.columbia.cs.psl.ioclones.pojo.XMLWrapper
+ShutdownLogger-0: Methods: p5.DummyClass2-insertionSort()java/util/List
+ShutdownLogger-0: # of records: 1
+ID of IO record: 21
+Input: [2, 7, 13, 15, 28, 39, 45, 45, 126, 201, 295, 94, 21], type: class java.util.ArrayList
+Input: [15, 2, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 13, 15, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 126, 201, 201, 295, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 126, 201, 295, 295, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 28, 39, 45, 126, 201, 295, 94, 21], type: class java.util.ArrayList
+Input: [2, 15, 13, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 28, 39, 45, 94, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 13, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 45, 126, 295, 295, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 15, 15, 7, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 39, 45, 126, 126, 201, 295, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 201, 295, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 39, 45, 126, 201, 295, 295, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 45, 126, 126, 295, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 126, 126, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 39, 45, 94, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 45, 94, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 45, 45, 126, 295, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 94, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 45, 126, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 201, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 94, 126, 201, 295, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 126, 201, 295, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 201, 295, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 28, 39, 45, 126, 201, 295, 295, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 126, 126, 201, 295, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 39, 39, 45, 126, 201, 295, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 126, 295, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 126, 295, 295, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 13, 13, 15, 126, 45, 295, 28, 201, 39, 27, 94, 21], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 27, 27, 28, 39, 45, 94, 126, 201, 295], type: class java.util.ArrayList
+Input: [2, 7, 13, 15, 28, 45, 45, 126, 201, 295, 27, 94, 21], type: class java.util.ArrayList
+Output: [2, 7, 13, 15, 21, 27, 28, 39, 45, 94, 126, 201, 295], type: class java.util.ArrayList
+ShutdownLogger-0: Record count: 22
+ShutdownLogger-0: Exact count: 12
+ShutdownLogger-0: Finish io clone reporting

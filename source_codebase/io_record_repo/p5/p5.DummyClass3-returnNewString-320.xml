@@ -1,0 +1,13 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass3-returnNewString(IDjava.lang.Strin)java/lang/String</methodKey>
+  <id>320</id>
+  <sortedInputs>
+    <string></string>
+    <double>0.0</double>
+    <string>hi!</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>hi!hi!0.0</string>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

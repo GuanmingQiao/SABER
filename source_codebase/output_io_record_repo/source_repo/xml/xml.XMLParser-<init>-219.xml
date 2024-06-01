@@ -1,0 +1,24 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>xml.XMLParser-&lt;init&gt;(Ljava.lang.String;)V</methodKey>
+  <stackInfo>&lt;init&gt;:test2_SABER_1328037091_1583698251024_setFoo_2:main</stackInfo>
+  <id>219</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="xml.XMLParser">
+        <newInput>
+          <methodKey>temp.replacement_repo.CustomObject-setFoo(Ljava.lang.String;)V</methodKey>
+          <stackInfo>setFoo:test2:main</stackInfo>
+          <id>12</id>
+          <sortedInputs>
+            <string>[209, 209]</string>
+          </sortedInputs>
+          <sortedOutputs/>
+          <stamp>SABER_1328037091_1583698251024_setFoo_2</stamp>
+        </newInput>
+      </obj>
+      <deepHash>-1044789121</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

@@ -1,0 +1,29 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p6.DummyClass3-&lt;init&gt;(java.lang.Stringjava.lang.Stringjava.util.List)V</methodKey>
+  <id>86</id>
+  <sortedInputs>
+    <string></string>
+    <list>
+      <string></string>
+      <string></string>
+    </list>
+    <string>hi!</string>
+    <double>100.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="p6.DummyClass3">
+        <firstName>hi!</firstName>
+        <lastName></lastName>
+        <decimal>100.0</decimal>
+        <strings>
+          <string></string>
+          <string></string>
+        </strings>
+        <values/>
+      </obj>
+      <deepHash>1079677760</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

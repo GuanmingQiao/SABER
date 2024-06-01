@@ -1,0 +1,19 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.OriginalClass-objectMethod(Ljava.util.List;Ltemp.replacement_repo.CustomObject;)Ljava/lang/String;</methodKey>
+  <stackInfo>objectMethod:test5_SABER_1898575367_1583698250979_objectMethod_1:main</stackInfo>
+  <id>45</id>
+  <sortedInputs>
+    <xml.XMLWrapper>
+      <obj class="temp.replacement_repo.CustomObject">
+        <value>0</value>
+      </obj>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+    <linked-list>
+      <int>472</int>
+    </linked-list>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>0_1</string>
+  </sortedOutputs>
+</pojo.IORecord>

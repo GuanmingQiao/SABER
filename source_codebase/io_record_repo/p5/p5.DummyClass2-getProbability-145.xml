@@ -1,0 +1,11 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass2-getProbability()D</methodKey>
+  <id>145</id>
+  <sortedInputs>
+    <double>1.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <double>1.0</double>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

@@ -1,0 +1,36 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass2-&lt;init&gt;(java.lang.Stringjava.lang.StringIIjava.util.List)V</methodKey>
+  <id>108</id>
+  <sortedInputs>
+    <list>
+      <string>1hi!351</string>
+      <string>hi!</string>
+      <string>hi!</string>
+    </list>
+    <string>1hi!351</string>
+    <int>35</int>
+    <int>100</int>
+    <string>hi!</string>
+    <double>100.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name>hi!</name>
+        <type>1hi!351</type>
+        <value>100</value>
+        <numOperations>35</numOperations>
+        <listOfItems>
+          <string>1hi!351</string>
+          <string>hi!</string>
+          <string>hi!</string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>100.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>398153223</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

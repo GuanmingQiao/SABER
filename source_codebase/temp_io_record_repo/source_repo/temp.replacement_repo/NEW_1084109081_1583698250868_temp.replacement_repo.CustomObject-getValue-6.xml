@@ -1,0 +1,11 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-getValue()I</methodKey>
+  <stackInfo>getValue:objectMethod:test0:main</stackInfo>
+  <id>6</id>
+  <sortedInputs>
+    <int>0</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <int>0</int>
+  </sortedOutputs>
+</pojo.IORecord>

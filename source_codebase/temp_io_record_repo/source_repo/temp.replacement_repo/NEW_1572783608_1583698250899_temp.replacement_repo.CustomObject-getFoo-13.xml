@@ -1,0 +1,11 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-getFoo()Ljava/lang/String;</methodKey>
+  <stackInfo>getFoo:test2:main</stackInfo>
+  <id>13</id>
+  <sortedInputs>
+    <string>temp.replacement_repo.CustomObject</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>temp.replacement_repo.CustomObject</string>
+  </sortedOutputs>
+</pojo.IORecord>

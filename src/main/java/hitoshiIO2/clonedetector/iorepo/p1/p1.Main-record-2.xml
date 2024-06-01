@@ -1,0 +1,12 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p1.Main-record()I</methodKey>
+  <id>2</id>
+  <sortedInputs>
+    <int>20</int>
+    <int>100</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <int>2000</int>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

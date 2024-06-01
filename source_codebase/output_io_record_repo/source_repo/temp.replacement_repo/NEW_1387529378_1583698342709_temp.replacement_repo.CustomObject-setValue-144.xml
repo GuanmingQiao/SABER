@@ -1,0 +1,16 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-setValue(I)V</methodKey>
+  <stackInfo>setValue:test0_SABER_635115106_1583698251006_setValue_1:main</stackInfo>
+  <id>144</id>
+  <sortedInputs>
+    <int>3</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="temp.replacement_repo.CustomObject">
+        <value>3</value>
+      </obj>
+      <deepHash>3</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

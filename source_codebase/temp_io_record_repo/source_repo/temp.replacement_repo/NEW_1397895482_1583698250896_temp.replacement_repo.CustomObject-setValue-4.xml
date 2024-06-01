@@ -1,0 +1,16 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-setValue(I)V</methodKey>
+  <stackInfo>setValue:test0:main</stackInfo>
+  <id>4</id>
+  <sortedInputs>
+    <int>201</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="temp.replacement_repo.CustomObject">
+        <value>201</value>
+      </obj>
+      <deepHash>201</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-setFoo(Ljava.lang.String;)V</methodKey>
+  <stackInfo>setFoo:test2:main</stackInfo>
+  <id>12</id>
+  <sortedInputs>
+    <string>[209, 209]</string>
+  </sortedInputs>
+  <sortedOutputs/>
+  <stamp>SABER_1328037091_1583698251024_setFoo_2</stamp>
+</pojo.IORecord>

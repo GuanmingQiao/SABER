@@ -1,0 +1,26 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass2-setValue()V</methodKey>
+  <id>134</id>
+  <sortedInputs>
+    <int>-1</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type>hi!</type>
+        <value>-1</value>
+        <numOperations>1</numOperations>
+        <listOfItems>
+          <string></string>
+          <string></string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>10.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>1076204352</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

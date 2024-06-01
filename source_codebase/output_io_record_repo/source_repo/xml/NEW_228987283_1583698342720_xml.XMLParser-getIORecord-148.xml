@@ -1,0 +1,30 @@
+<pojo.IORecord>
+  <methodKey>xml.XMLParser-getIORecord(Ljava.io.File;)Lpojo/IORecord;</methodKey>
+  <stackInfo>getIORecord:&lt;init&gt;:test0_SABER_1328037091_1583698251024_setValue_2:main</stackInfo>
+  <id>148</id>
+  <sortedInputs>
+    <xml.XMLWrapper>
+      <obj class="xml.XMLParser"/>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+    <xml.XMLWrapper>
+      <obj class="file">/Users/adityasridhar/Documents/COLUMBIA/SABER/source_codebase/xml_file_dump/TEST_COLUMBIA_SABER_xmlFileDump_SABER_1328037091_1583698251024_setValue_2.xml</obj>
+      <deepHash>687687691</deepHash>
+    </xml.XMLWrapper>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="pojo.IORecord">
+        <methodKey>temp.replacement_repo.CustomObject-setValue(I)V</methodKey>
+        <stackInfo>setValue:test0:main</stackInfo>
+        <id>4</id>
+        <sortedInputs>
+          <int>2</int>
+        </sortedInputs>
+        <sortedOutputs/>
+        <stamp>SABER_1328037091_1583698251024_setValue_2</stamp>
+      </obj>
+      <deepHash>1480813623</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

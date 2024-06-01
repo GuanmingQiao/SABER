@@ -1,0 +1,11 @@
+method_1, method_id1, method_2, method_id2, in_sim, out_sim, total_sim 
+p9.FastScanner-readLine()java/lang/String,246,p9.FastScanner-tryReadLine()java/lang/String,247,0.0,1.0,0.2795308530330658
+p9.FastScanner-nextInt()I,188,p9.Main2$1-accept(java.io.Filejava.lang.Strin)Z,6,0.0,0.5,0.1541716754436493
+p9.FastScanner-next()java/lang/String,245,p9.FastScanner-tryReadLine()java/lang/String,247,0.0,0.5,0.1541716754436493
+p9.FastScanner-nextInt()I,188,p9.TaskA-solve(Ip9.FastScannerp9.FastPrinte)V,35,0.0,0.5,0.1541716754436493
+p9.FastScanner-next()java/lang/String,37,p9.FastScanner-nextInt()I,188,0.0,0.3333333333333333,0.12450573593378067
+p9.FastScanner-next()java/lang/String,37,p9.FastScanner-readLine()java/lang/String,38,0.0,0.5,0.1541716754436493
+p9.FastScanner-next()java/lang/String,37,p9.TaskA-solve(Ip9.FastScannerp9.FastPrinte)V,35,0.0,0.5,0.1541716754436493
+p9.FastScanner-next()java/lang/String,37,p9.Main2$1-accept(java.io.Filejava.lang.Strin)Z,6,0.0,0.5,0.1541716754436493
+p9.Main2$1-accept(java.io.Filejava.lang.Strin)Z,6,p9.TaskA-solve(Ip9.FastScannerp9.FastPrinte)V,35,0.0,1.0,0.2795308530330658
+p9.FastScanner-nextInt()I,188,p9.FastScanner-readLine()java/lang/String,33,1.0,0.0,0.27953794598579407

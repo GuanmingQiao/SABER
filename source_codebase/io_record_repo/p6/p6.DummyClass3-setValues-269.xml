@@ -1,0 +1,22 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p6.DummyClass3-setValues(java.util.Lis)V</methodKey>
+  <id>269</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="p6.DummyClass3">
+        <firstName></firstName>
+        <lastName>hi!hi!10.0</lastName>
+        <decimal>10.0</decimal>
+        <strings>
+          <string></string>
+          <string></string>
+          <string>hi!hi!10.0</string>
+        </strings>
+        <values/>
+      </obj>
+      <deepHash>-458278879</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

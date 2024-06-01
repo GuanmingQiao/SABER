@@ -1,0 +1,15 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>xml.XMLParser-getNewInputByIndex(I)Ljava/lang/Object;</methodKey>
+  <stackInfo>getNewInputByIndex:test2_SABER_1328037091_1583698251024_setFoo_1:main</stackInfo>
+  <id>286</id>
+  <sortedInputs>
+    <int>0</int>
+    <list>
+      <string>temp.replacement_repo.CustomObject@7f0eb4b4</string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>temp.replacement_repo.CustomObject@7f0eb4b4</string>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

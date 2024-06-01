@@ -1,0 +1,16 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass2-getListOfItems()java/util/List</methodKey>
+  <id>19</id>
+  <sortedInputs>
+    <list>
+      <string></string>
+      <string></string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <list>
+      <string></string>
+      <string></string>
+    </list>
+  </sortedOutputs>
+</pojo.IORecord>

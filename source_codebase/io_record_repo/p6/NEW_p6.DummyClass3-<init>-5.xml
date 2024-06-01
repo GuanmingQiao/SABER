@@ -1,0 +1,20 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass3-&lt;init&gt;(java.lang.Stringjava.lang.Stringjava.util.List)V</methodKey>
+  <id>5</id>
+  <sortedInputs>
+    <string></string>
+    <string>hi!</string>
+    <double>10.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p6.DummyClass3">
+        <firstName></firstName>
+        <lastName>hi!</lastName>
+        <decimal>10.0</decimal>
+        <values/>
+      </obj>
+      <deepHash>1076204352</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

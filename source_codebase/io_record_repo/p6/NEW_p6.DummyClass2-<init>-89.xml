@@ -1,0 +1,35 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass2-&lt;init&gt;(java.lang.Stringjava.lang.StringIIjava.util.List)V</methodKey>
+  <id>89</id>
+  <sortedInputs>
+    <list>
+      <string>1hi!351</string>
+      <string>hi!</string>
+      <string>hi!</string>
+    </list>
+    <double>-1.0</double>
+    <string>1hi!351</string>
+    <int>32</int>
+    <int>100</int>
+    <string>hi!</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p6.DummyClass2">
+        <name>hi!</name>
+        <type>1hi!351</type>
+        <value>100</value>
+        <numOperations>32</numOperations>
+        <listOfItems>
+          <string>1hi!351</string>
+          <string>hi!</string>
+          <string>hi!</string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>-1.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>-1756211708</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

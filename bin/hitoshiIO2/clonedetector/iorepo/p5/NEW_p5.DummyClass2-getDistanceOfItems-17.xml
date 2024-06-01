@@ -1,0 +1,36 @@
+<IORecord>
+  <methodKey>p5.DummyClass2-getDistanceOfItems()D</methodKey>
+  <id>17</id>
+  <sortedInputs>
+    <double>42.83689998120779</double>
+    <list>
+      <string>Foo</string>
+      <string>Article</string>
+      <string>Chocolate is awesome</string>
+      <string>Wonderful</string>
+      <string>Beauty is in the eye of the beholder</string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <double>42.83689998120779</double>
+    <XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type></type>
+        <value>0</value>
+        <numOperations>0</numOperations>
+        <listOfItems>
+          <string>Foo</string>
+          <string>Article</string>
+          <string>Chocolate is awesome</string>
+          <string>Wonderful</string>
+          <string>Beauty is in the eye of the beholder</string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>0.0</probability>
+        <distanceOfItems>42.83689998120779</distanceOfItems>
+      </obj>
+      <deepHash>948337112</deepHash>
+    </XMLWrapper>
+  </sortedOutputs>
+</IORecord>

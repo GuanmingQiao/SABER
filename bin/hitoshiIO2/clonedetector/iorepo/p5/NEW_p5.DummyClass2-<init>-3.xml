@@ -1,0 +1,20 @@
+<IORecord>
+  <methodKey>p5.DummyClass2-&lt;init&gt;()V</methodKey>
+  <id>3</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type></type>
+        <value>0</value>
+        <numOperations>0</numOperations>
+        <listOfItems/>
+        <listOfNumbers/>
+        <probability>0.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>0</deepHash>
+    </XMLWrapper>
+  </sortedOutputs>
+</IORecord>

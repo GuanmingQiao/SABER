@@ -1,0 +1,463 @@
+19.09.19 12:03:48 INFO e.c.c.p.i.d.IODriver [main] Configuration: 
+19.09.19 12:03:48 INFO e.c.c.p.i.d.IODriver [main] Debug: false
+Call limit: 50
+Float scale: 2
+
+19.09.19 12:03:48 INFO e.c.c.p.i.d.IODriver [main] Loading class info
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Connect to sqlite: cb
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 5000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 10000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 15000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 20000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 25000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 30000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 10000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 20000
+19.09.19 12:03:48 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 30000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 40000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 50000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 60000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 70000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 80000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 90000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 100000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 110000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 120000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 130000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 140000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 150000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 160000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 170000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 180000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 190000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 200000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 210000
+19.09.19 12:03:49 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 220000
+19.09.19 12:03:49 INFO e.c.c.p.i.d.IODriver [main] Bytecodebase path: /Users/adityasridhar/Documents/COLUMBIA/hitoshiIO2/CodeJamBase/
+Bytecodebase: /Users/adityasridhar/Documents/COLUMBIA/hitoshiIO2/CodeJamBase/
+Class: 
+Loading the following class in IODriver: CodeJam.Y14R5P1.Sammarize.Main
+Name of method in visitMethod: <init>
+Descriptor of method: ()V
+Type of class: C
+java.lang.NullPointerException
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main <init> ()V
+Name of method in visitMethod: main
+Descriptor of method: ([Ljava/lang/String;)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main main ([Ljava/lang/String;)V
+Name of method in visitMethod: printtime
+Descriptor of method: ()V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main printtime ()V
+Name of method in visitMethod: nexttime
+Descriptor of method: ()V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nexttime ()V
+Name of method in visitMethod: nextToken
+Descriptor of method: ()Ljava/lang/String;
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextToken ()Ljava/lang/String;
+Name of method in visitMethod: next
+Descriptor of method: ()I
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main next ()I
+Name of method in visitMethod: next
+Descriptor of method: (I)[I
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main next (I)[I
+Name of method in visitMethod: next
+Descriptor of method: (II)[[I
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main next (II)[[I
+Name of method in visitMethod: nextl
+Descriptor of method: ()J
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextl ()J
+Name of method in visitMethod: nextl
+Descriptor of method: (I)[J
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextl (I)[J
+Name of method in visitMethod: nextl
+Descriptor of method: (II)[[J
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextl (II)[[J
+Name of method in visitMethod: nextd
+Descriptor of method: ()D
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextd ()D
+Name of method in visitMethod: nextd
+Descriptor of method: (I)[D
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextd (I)[D
+Name of method in visitMethod: nextd
+Descriptor of method: (II)[[D
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextd (II)[[D
+Name of method in visitMethod: nextline
+Descriptor of method: ()Ljava/lang/String;
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextline ()Ljava/lang/String;
+Name of method in visitMethod: sout
+Descriptor of method: (J)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout (J)V
+Name of method in visitMethod: sout
+Descriptor of method: (Ljava/lang/String;)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout (Ljava/lang/String;)V
+Name of method in visitMethod: sout
+Descriptor of method: ([I)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([I)V
+Name of method in visitMethod: sout
+Descriptor of method: ([J)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([J)V
+Name of method in visitMethod: sout
+Descriptor of method: ([[I)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([[I)V
+Name of method in visitMethod: sout
+Descriptor of method: ([[J)V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([[J)V
+Name of method in visitMethod: <clinit>
+Descriptor of method: ()V
+Type of class: C
+19.09.19 12:03:49 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main <clinit> ()V
+19.09.19 12:03:49 INFO e.c.c.p.i.d.IODriver [main] Executing main method for CodeJam.Y14R5P1.Sammarize.Main
+ShutdownLogger-0: Reporting IOs
+ShutdownLogger-0: Methods: CodeJam.Y14R5P1.Sammarize.Main-nextToken()java/lang/String
+ShutdownLogger-0: # of records: 40
+Outputs: [283]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 283, type: class java.lang.String
+Outputs: [746695]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 746695, type: class java.lang.String
+Outputs: [700999]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 700999, type: class java.lang.String
+Outputs: [16]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 16, type: class java.lang.String
+Outputs: [17]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 17, type: class java.lang.String
+Outputs: [15]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 15, type: class java.lang.String
+Outputs: [13]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 13, type: class java.lang.String
+Outputs: [10]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 10, type: class java.lang.String
+Outputs: [791946]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 791946, type: class java.lang.String
+Outputs: [931073]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 931073, type: class java.lang.String
+Outputs: [99]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 99, type: class java.lang.String
+Outputs: [11]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 11, type: class java.lang.String
+Outputs: [30]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 30, type: class java.lang.String
+Outputs: [999]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 999, type: class java.lang.String
+Outputs: [426323]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 426323, type: class java.lang.String
+Outputs: [664298]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 664298, type: class java.lang.String
+Outputs: [917907]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 917907, type: class java.lang.String
+Outputs: [819158]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 819158, type: class java.lang.String
+Outputs: [641109]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 641109, type: class java.lang.String
+Outputs: [314402]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 314402, type: class java.lang.String
+Outputs: [1000]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 1000, type: class java.lang.String
+Outputs: [29]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 29, type: class java.lang.String
+Outputs: [25]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 25, type: class java.lang.String
+Outputs: [23]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 23, type: class java.lang.String
+Outputs: [24]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 24, type: class java.lang.String
+Outputs: [21]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 21, type: class java.lang.String
+Outputs: [251449]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 251449, type: class java.lang.String
+Outputs: [20]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 20, type: class java.lang.String
+Outputs: [999999]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 999999, type: class java.lang.String
+Outputs: [1000000]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 1000000, type: class java.lang.String
+Outputs: [7]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 7, type: class java.lang.String
+Outputs: [5]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 5, type: class java.lang.String
+Outputs: [25344]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 25344, type: class java.lang.String
+Outputs: [6]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 6, type: class java.lang.String
+Outputs: [3]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 3, type: class java.lang.String
+Outputs: [4]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 4, type: class java.lang.String
+Outputs: [1]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 1, type: class java.lang.String
+Outputs: [200]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 200, type: class java.lang.String
+Outputs: [2]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 2, type: class java.lang.String
+Outputs: [100]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 100, type: class java.lang.String
+ShutdownLogger-0: Methods: CodeJam.Y14R5P1.Sammarize.Main-next()I
+ShutdownLogger-0: # of records: 40
+Outputs: [251449]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 251449, type: class java.lang.Integer
+Outputs: [25344]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 25344, type: class java.lang.Integer
+Outputs: [1]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 1, type: class java.lang.Integer
+Outputs: [4]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 4, type: class java.lang.Integer
+Outputs: [5]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 5, type: class java.lang.Integer
+Outputs: [917907]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 917907, type: class java.lang.Integer
+Outputs: [2]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 2, type: class java.lang.Integer
+Outputs: [3]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 3, type: class java.lang.Integer
+Outputs: [1000]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 1000, type: class java.lang.Integer
+Outputs: [999]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 999, type: class java.lang.Integer
+Outputs: [664298]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 664298, type: class java.lang.Integer
+Outputs: [24]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 24, type: class java.lang.Integer
+Outputs: [25]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 25, type: class java.lang.Integer
+Outputs: [23]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 23, type: class java.lang.Integer
+Outputs: [29]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 29, type: class java.lang.Integer
+Outputs: [283]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 283, type: class java.lang.Integer
+Outputs: [30]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 30, type: class java.lang.Integer
+Outputs: [314402]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 314402, type: class java.lang.Integer
+Outputs: [100]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 100, type: class java.lang.Integer
+Outputs: [99]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 99, type: class java.lang.Integer
+Outputs: [819158]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 819158, type: class java.lang.Integer
+Outputs: [200]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 200, type: class java.lang.Integer
+Outputs: [6]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 6, type: class java.lang.Integer
+Outputs: [7]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 7, type: class java.lang.Integer
+Outputs: [641109]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 641109, type: class java.lang.Integer
+Outputs: [426323]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 426323, type: class java.lang.Integer
+Outputs: [13]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 13, type: class java.lang.Integer
+Outputs: [10]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 10, type: class java.lang.Integer
+Outputs: [11]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 11, type: class java.lang.Integer
+Outputs: [999999]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 999999, type: class java.lang.Integer
+Outputs: [16]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 16, type: class java.lang.Integer
+Outputs: [17]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 17, type: class java.lang.Integer
+Outputs: [791946]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 791946, type: class java.lang.Integer
+Outputs: [1000000]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 1000000, type: class java.lang.Integer
+Outputs: [931073]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 931073, type: class java.lang.Integer
+Outputs: [15]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 15, type: class java.lang.Integer
+Outputs: [20]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 20, type: class java.lang.Integer
+Outputs: [746695]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 746695, type: class java.lang.Integer
+Outputs: [700999]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 700999, type: class java.lang.Integer
+Outputs: [21]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 21, type: class java.lang.Integer
+ShutdownLogger-0: Methods: CodeJam.Y14R5P1.Sammarize.Main-<clinit>()V
+ShutdownLogger-0: # of records: 1
+Outputs: [5222877838935799]
+Number of inputs: 0
+Number of outputs: 1
+1th output: 5222877838935799, type: class java.lang.Long
+ShutdownLogger-0: Record count: 153
+ShutdownLogger-0: Exact count: 81
+ShutdownLogger-0: Finish io clone reporting

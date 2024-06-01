@@ -1,0 +1,20 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.OriginalClass-objectMethod(Ljava.util.List;Ltemp.replacement_repo.CustomObject;)Ljava/lang/String;</methodKey>
+  <stackInfo>objectMethod:test0:main</stackInfo>
+  <id>5</id>
+  <sortedInputs>
+    <xml.XMLWrapper>
+      <obj class="temp.replacement_repo.CustomObject">
+        <value>0</value>
+      </obj>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+    <linked-list>
+      <int>209</int>
+      <int>209</int>
+    </linked-list>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>0_2</string>
+  </sortedOutputs>
+</pojo.IORecord>

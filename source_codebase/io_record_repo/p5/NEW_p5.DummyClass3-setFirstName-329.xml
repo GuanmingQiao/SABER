@@ -1,0 +1,22 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass3-setFirstName(java.lang.Strin)V</methodKey>
+  <id>329</id>
+  <sortedInputs>
+    <string>hi!10.0</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p5.DummyClass3">
+        <firstName>hi!10.0</firstName>
+        <lastName>hi!</lastName>
+        <decimal>10.0</decimal>
+        <strings>
+          <string></string>
+          <string></string>
+        </strings>
+        <values/>
+      </obj>
+      <deepHash>1925351073</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

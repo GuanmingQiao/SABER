@@ -1,0 +1,25 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass2-setNumOperations()V</methodKey>
+  <id>234</id>
+  <sortedInputs>
+    <int>0</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name>hi!</name>
+        <type>hi!</type>
+        <value>35</value>
+        <numOperations>0</numOperations>
+        <listOfItems>
+          <string></string>
+          <string></string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>-1.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>-1074687133</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

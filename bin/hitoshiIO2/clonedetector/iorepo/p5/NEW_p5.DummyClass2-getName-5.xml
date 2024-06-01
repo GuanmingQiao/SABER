@@ -1,0 +1,10 @@
+<IORecord>
+  <methodKey>p5.DummyClass2-getName()java/lang/String</methodKey>
+  <id>5</id>
+  <sortedInputs>
+    <string>Justin</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>Justin</string>
+  </sortedOutputs>
+</IORecord>

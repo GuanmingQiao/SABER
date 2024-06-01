@@ -1,0 +1,16 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass3-setValues(java.util.Lis)V</methodKey>
+  <id>18</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p5.DummyClass3">
+        <firstName></firstName>
+        <lastName>hi!</lastName>
+        <decimal>10.0</decimal>
+        <values/>
+      </obj>
+      <deepHash>1076204352</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass3-getDecimal()D</methodKey>
+  <id>9</id>
+  <sortedInputs>
+    <double>10.0</double>
+  </sortedInputs>
+  <sortedOutputs>
+    <double>10.0</double>
+  </sortedOutputs>
+</pojo.IORecord>

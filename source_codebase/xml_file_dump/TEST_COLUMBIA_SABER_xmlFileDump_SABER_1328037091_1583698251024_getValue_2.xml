@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.CustomObject-getValue()I</methodKey>
+  <stackInfo>getValue:test5:main</stackInfo>
+  <id>23</id>
+  <sortedInputs>
+    <int>2</int>
+  </sortedInputs>
+  <sortedOutputs/>
+  <stamp>SABER_1328037091_1583698251024_getValue_2</stamp>
+</pojo.IORecord>

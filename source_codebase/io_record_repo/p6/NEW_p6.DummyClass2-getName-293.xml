@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass2-getName()java/lang/String</methodKey>
+  <id>293</id>
+  <sortedInputs>
+    <string></string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string></string>
+  </sortedOutputs>
+</pojo.IORecord>

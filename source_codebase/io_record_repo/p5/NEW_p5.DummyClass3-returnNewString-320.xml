@@ -1,0 +1,12 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass3-returnNewString(IDjava.lang.Strin)java/lang/String</methodKey>
+  <id>320</id>
+  <sortedInputs>
+    <string></string>
+    <double>0.0</double>
+    <string>hi!</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>hi!hi!0.0</string>
+  </sortedOutputs>
+</pojo.IORecord>

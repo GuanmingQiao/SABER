@@ -1,0 +1,15 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>xml.EMConverter-&lt;init&gt;()V</methodKey>
+  <stackInfo>&lt;init&gt;:getIORecord:&lt;init&gt;:test5_SABER_635115106_1583698251006_getValue_1:main</stackInfo>
+  <id>9</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="xml.EMConverter">
+        <enumRecorder/>
+      </obj>
+      <deepHash>0</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

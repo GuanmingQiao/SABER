@@ -1,0 +1,17 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass3-&lt;init&gt;()V</methodKey>
+  <id>3</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p6.DummyClass3">
+        <firstName></firstName>
+        <lastName></lastName>
+        <decimal>0.0</decimal>
+        <strings/>
+        <values/>
+      </obj>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

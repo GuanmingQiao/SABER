@@ -1,0 +1,151 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>xml.XMLParser$1$1-&lt;init&gt;(Lxml.XMLParser$1;Lcom.thoughtworks.xstream.mapper.Mapper;)V</methodKey>
+  <stackInfo>&lt;init&gt;:wrapMapper:buildMapper:&lt;init&gt;:&lt;init&gt;:&lt;init&gt;:&lt;init&gt;:&lt;init&gt;:&lt;init&gt;:getIORecord:&lt;init&gt;:test5_SABER_635115106_1583698251006_getValue_1:main</stackInfo>
+  <id>7</id>
+  <sortedInputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="xml.XMLParser$1">
+        <reflectionProvider class="com.thoughtworks.xstream.converters.reflection.SunUnsafeReflectionProvider">
+          <fieldDictionary>
+            <sorter class="com.thoughtworks.xstream.converters.reflection.ImmutableFieldKeySorter"/>
+          </fieldDictionary>
+        </reflectionProvider>
+        <hierarchicalStreamDriver class="com.thoughtworks.xstream.io.xml.XppDriver">
+          <replacer class="com.thoughtworks.xstream.io.xml.XmlFriendlyNameCoder">
+            <dollarReplacement>_-</dollarReplacement>
+            <escapeCharReplacement>__</escapeCharReplacement>
+            <hexPrefix>_.</hexPrefix>
+          </replacer>
+        </hierarchicalStreamDriver>
+        <classLoaderReference/>
+        <converterLookup class="com.thoughtworks.xstream.XStream$1"/>
+        <converterRegistry class="com.thoughtworks.xstream.XStream$2"/>
+      </obj>
+      <deepHash>9021</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="xml.XMLParser$1$1">
+        <wrapped class="com.thoughtworks.xstream.mapper.AnnotationMapper">
+          <wrapped class="com.thoughtworks.xstream.mapper.SecurityMapper">
+            <wrapped class="com.thoughtworks.xstream.mapper.LambdaMapper">
+              <wrapped class="com.thoughtworks.xstream.mapper.ImmutableTypesMapper">
+                <wrapped class="com.thoughtworks.xstream.mapper.LocalConversionMapper">
+                  <wrapped class="com.thoughtworks.xstream.mapper.EnumMapper">
+                    <wrapped class="com.thoughtworks.xstream.mapper.AttributeMapper">
+                      <wrapped class="com.thoughtworks.xstream.mapper.DefaultImplementationsMapper">
+                        <wrapped class="com.thoughtworks.xstream.mapper.ArrayMapper">
+                          <wrapped class="com.thoughtworks.xstream.mapper.OuterClassMapper">
+                            <wrapped class="com.thoughtworks.xstream.mapper.ImplicitCollectionMapper">
+                              <wrapped class="com.thoughtworks.xstream.mapper.SystemAttributeAliasingMapper">
+                                <wrapped class="com.thoughtworks.xstream.mapper.AttributeAliasingMapper">
+                                  <wrapped class="com.thoughtworks.xstream.mapper.FieldAliasingMapper">
+                                    <wrapped class="com.thoughtworks.xstream.mapper.ClassAliasingMapper">
+                                      <wrapped class="com.thoughtworks.xstream.mapper.PackageAliasingMapper" serialization="custom">
+                                        <unserializable-parents>
+                                          <wrapped class="com.thoughtworks.xstream.mapper.DynamicProxyMapper">
+                                            <wrapped class="com.thoughtworks.xstream.mapper.DefaultMapper">
+                                              <classLoaderReference/>
+                                            </wrapped>
+                                            <alias>dynamic-proxy</alias>
+                                          </wrapped>
+                                        </unserializable-parents>
+                                        <com.thoughtworks.xstream.mapper.PackageAliasingMapper>
+                                          <map/>
+                                        </com.thoughtworks.xstream.mapper.PackageAliasingMapper>
+                                      </wrapped>
+                                      <typeToName/>
+                                      <classToName/>
+                                    </wrapped>
+                                    <fieldToAliasMap/>
+                                    <aliasToFieldMap/>
+                                    <fieldsToOmit/>
+                                    <unknownFieldsToIgnore class="linked-hash-set"/>
+                                  </wrapped>
+                                  <aliasToName/>
+                                </wrapped>
+                                <aliasToName/>
+                              </wrapped>
+                              <classNameToMapper/>
+                            </wrapped>
+                            <alias>outer-class</alias>
+                          </wrapped>
+                        </wrapped>
+                        <typeToImpl>
+                          <entry>
+                            <java-class>com.thoughtworks.xstream.mapper.Mapper$Null</java-class>
+                            <null/>
+                          </entry>
+                          <entry>
+                            <java-class>boolean</java-class>
+                            <java-class>java.lang.Boolean</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>char</java-class>
+                            <java-class>java.lang.Character</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>float</java-class>
+                            <java-class>java.lang.Float</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>short</java-class>
+                            <java-class>java.lang.Short</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>byte</java-class>
+                            <java-class>java.lang.Byte</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>long</java-class>
+                            <java-class>java.lang.Long</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>double</java-class>
+                            <java-class>java.lang.Double</java-class>
+                          </entry>
+                          <entry>
+                            <java-class>int</java-class>
+                            <java-class>java.lang.Integer</java-class>
+                          </entry>
+                        </typeToImpl>
+                      </wrapped>
+                      <fieldNameToTypeMap/>
+                      <typeSet/>
+                      <converterLookup class="com.thoughtworks.xstream.XStream$1"/>
+                      <reflectionProvider class="com.thoughtworks.xstream.converters.reflection.SunUnsafeReflectionProvider">
+                        <fieldDictionary>
+                          <sorter class="com.thoughtworks.xstream.converters.reflection.ImmutableFieldKeySorter"/>
+                        </fieldDictionary>
+                      </reflectionProvider>
+                      <fieldToUseAsAttribute/>
+                    </wrapped>
+                  </wrapped>
+                  <localConverters/>
+                </wrapped>
+                <immutableTypes/>
+              </wrapped>
+            </wrapped>
+            <permissions/>
+          </wrapped>
+          <locked>true</locked>
+          <converterRegistry class="com.thoughtworks.xstream.XStream$2"/>
+          <converterCache/>
+          <annotatedTypes class="java.util.Collections$SynchronizedSet" serialization="custom">
+            <java.util.Collections_-SynchronizedCollection>
+              <default>
+                <c class="set">
+                  <java-class>java.lang.Object</java-class>
+                </c>
+                <mutex class="java.util.Collections$SynchronizedSet" reference="../../.."/>
+              </default>
+            </java.util.Collections_-SynchronizedCollection>
+          </annotatedTypes>
+        </wrapped>
+      </obj>
+      <deepHash>494480853</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

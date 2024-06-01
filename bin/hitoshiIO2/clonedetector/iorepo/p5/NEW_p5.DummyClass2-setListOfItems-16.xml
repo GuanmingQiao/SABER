@@ -1,0 +1,34 @@
+<IORecord>
+  <methodKey>p5.DummyClass2-setListOfItems(java.util.Lis)V</methodKey>
+  <id>16</id>
+  <sortedInputs>
+    <list>
+      <string>Foo</string>
+      <string>Article</string>
+      <string>Chocolate is awesome</string>
+      <string>Wonderful</string>
+      <string>Beauty is in the eye of the beholder</string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type></type>
+        <value>0</value>
+        <numOperations>0</numOperations>
+        <listOfItems>
+          <string>Foo</string>
+          <string>Article</string>
+          <string>Chocolate is awesome</string>
+          <string>Wonderful</string>
+          <string>Beauty is in the eye of the beholder</string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>0.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>-645316753</deepHash>
+    </XMLWrapper>
+  </sortedOutputs>
+</IORecord>

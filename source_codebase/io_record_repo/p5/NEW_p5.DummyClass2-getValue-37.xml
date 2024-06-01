@@ -1,0 +1,10 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass2-getValue()I</methodKey>
+  <id>37</id>
+  <sortedInputs>
+    <int>97</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <int>97</int>
+  </sortedOutputs>
+</pojo.IORecord>

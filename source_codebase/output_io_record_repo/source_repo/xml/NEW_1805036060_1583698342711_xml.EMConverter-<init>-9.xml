@@ -1,0 +1,14 @@
+<pojo.IORecord>
+  <methodKey>xml.EMConverter-&lt;init&gt;()V</methodKey>
+  <stackInfo>&lt;init&gt;:getIORecord:&lt;init&gt;:test5_SABER_635115106_1583698251006_getValue_1:main</stackInfo>
+  <id>9</id>
+  <sortedInputs/>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="xml.EMConverter">
+        <enumRecorder/>
+      </obj>
+      <deepHash>0</deepHash>
+    </xml.XMLWrapper>
+  </sortedOutputs>
+</pojo.IORecord>

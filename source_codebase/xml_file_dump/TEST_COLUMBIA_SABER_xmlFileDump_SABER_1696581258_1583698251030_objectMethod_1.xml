@@ -1,0 +1,12 @@
+<pojo.IORecord>
+  <methodKey>temp.replacement_repo.OriginalClass-objectMethod(Ljava.util.List;Ltemp.replacement_repo.CustomObject;)Ljava/lang/String;</methodKey>
+  <stackInfo>objectMethod:test5:main</stackInfo>
+  <id>22</id>
+  <sortedInputs>
+    <linked-list>
+      <int>0</int>
+    </linked-list>
+  </sortedInputs>
+  <sortedOutputs/>
+  <stamp>SABER_1696581258_1583698251030_objectMethod_1</stamp>
+</pojo.IORecord>

@@ -1,0 +1,35 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>p5.DummyClass2-setListOfItems(java.util.Lis)V</methodKey>
+  <id>16</id>
+  <sortedInputs>
+    <list>
+      <string>Foo</string>
+      <string>Article</string>
+      <string>Chocolate is awesome</string>
+      <string>Wonderful</string>
+      <string>Beauty is in the eye of the beholder</string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="p5.DummyClass2">
+        <name></name>
+        <type></type>
+        <value>0</value>
+        <numOperations>0</numOperations>
+        <listOfItems>
+          <string>Foo</string>
+          <string>Article</string>
+          <string>Chocolate is awesome</string>
+          <string>Wonderful</string>
+          <string>Beauty is in the eye of the beholder</string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>0.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>-645316753</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

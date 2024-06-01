@@ -1,0 +1,134 @@
+19.09.19 12:03:16 INFO e.c.c.p.i.d.IODriver [main] Configuration: 
+19.09.19 12:03:16 INFO e.c.c.p.i.d.IODriver [main] Debug: false
+Call limit: 50
+Float scale: 2
+
+19.09.19 12:03:16 INFO e.c.c.p.i.d.IODriver [main] Loading class info
+19.09.19 12:03:16 INFO e.c.c.p.i.u.IOUtils [main] Connect to sqlite: cb
+19.09.19 12:03:16 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 5000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 10000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 15000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 20000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 25000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded class: 30000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 10000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 20000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 30000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 40000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 50000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 60000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 70000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 80000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 90000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 100000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 110000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 120000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 130000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 140000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 150000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 160000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 170000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 180000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 190000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 200000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 210000
+19.09.19 12:03:17 INFO e.c.c.p.i.u.IOUtils [main] Loaded methods: 220000
+19.09.19 12:03:17 INFO e.c.c.p.i.d.IODriver [main] Bytecodebase path: /Users/adityasridhar/Documents/COLUMBIA/hitoshiIO2/CodeJamBase/
+Bytecodebase: /Users/adityasridhar/Documents/COLUMBIA/hitoshiIO2/CodeJamBase/
+Class: 
+Loading the following class in IODriver: CodeJam.Y14R5P1.Sammarize.Main
+Name of method in visitMethod: <init>
+Descriptor of method: ()V
+Type of class: C
+java.lang.NullPointerException
+19.09.19 12:03:17 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main <init> ()V
+Name of method in visitMethod: main
+Descriptor of method: ([Ljava/lang/String;)V
+Type of class: C
+19.09.19 12:03:17 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main main ([Ljava/lang/String;)V
+Name of method in visitMethod: printtime
+Descriptor of method: ()V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main printtime ()V
+Name of method in visitMethod: nexttime
+Descriptor of method: ()V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nexttime ()V
+Name of method in visitMethod: nextToken
+Descriptor of method: ()Ljava/lang/String;
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextToken ()Ljava/lang/String;
+Name of method in visitMethod: next
+Descriptor of method: ()I
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main next ()I
+Name of method in visitMethod: next
+Descriptor of method: (I)[I
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main next (I)[I
+Name of method in visitMethod: next
+Descriptor of method: (II)[[I
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main next (II)[[I
+Name of method in visitMethod: nextl
+Descriptor of method: ()J
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextl ()J
+Name of method in visitMethod: nextl
+Descriptor of method: (I)[J
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextl (I)[J
+Name of method in visitMethod: nextl
+Descriptor of method: (II)[[J
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextl (II)[[J
+Name of method in visitMethod: nextd
+Descriptor of method: ()D
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextd ()D
+Name of method in visitMethod: nextd
+Descriptor of method: (I)[D
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextd (I)[D
+Name of method in visitMethod: nextd
+Descriptor of method: (II)[[D
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextd (II)[[D
+Name of method in visitMethod: nextline
+Descriptor of method: ()Ljava/lang/String;
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main nextline ()Ljava/lang/String;
+Name of method in visitMethod: sout
+Descriptor of method: (J)V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout (J)V
+Name of method in visitMethod: sout
+Descriptor of method: (Ljava/lang/String;)V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout (Ljava/lang/String;)V
+Name of method in visitMethod: sout
+Descriptor of method: ([I)V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([I)V
+Name of method in visitMethod: sout
+Descriptor of method: ([J)V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([J)V
+Name of method in visitMethod: sout
+Descriptor of method: ([[I)V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([[I)V
+Name of method in visitMethod: sout
+Descriptor of method: ([[J)V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main sout ([[J)V
+Name of method in visitMethod: <clinit>
+Descriptor of method: ()V
+Type of class: C
+19.09.19 12:03:18 INFO e.c.c.p.i.DependencyAnalyzer$1 [main] Analyzing CodeJam/Y14R5P1/Sammarize/Main <clinit> ()V
+19.09.19 12:03:18 INFO e.c.c.p.i.d.IODriver [main] Executing main method for CodeJam.Y14R5P1.Sammarize.Main
+19.09.19 12:03:18 INFO e.c.c.p.i.d.IODriver [main] IODriver completed successfully.
+ShutdownLogger-0: Reporting IOs
+ShutdownLogger-0: Record count: 0
+ShutdownLogger-0: Exact count: 0
+ShutdownLogger-0: Finish io clone reporting

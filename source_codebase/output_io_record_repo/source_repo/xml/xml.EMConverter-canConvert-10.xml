@@ -1,0 +1,15 @@
+<edu.columbia.cs.psl.ioclones.pojo.IORecord>
+  <dhComparator class="edu.columbia.cs.psl.ioclones.sim.AbstractSim$DHSComparator"/>
+  <methodKey>xml.EMConverter-canConvert(Ljava.lang.Class;)Z</methodKey>
+  <stackInfo>canConvert:lookupConverterForType:lookupConverterForType:convertAnother:convertAnother:start:unmarshal:unmarshal:unmarshal:fromXML:fromXML:getIORecord:&lt;init&gt;:test5_SABER_635115106_1583698251006_getValue_1:main</stackInfo>
+  <id>10</id>
+  <sortedInputs>
+    <edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+      <obj class="java-class">pojo.IORecord</obj>
+      <deepHash>0</deepHash>
+    </edu.columbia.cs.psl.ioclones.pojo.XMLWrapper>
+  </sortedInputs>
+  <sortedOutputs>
+    <int>0</int>
+  </sortedOutputs>
+</edu.columbia.cs.psl.ioclones.pojo.IORecord>

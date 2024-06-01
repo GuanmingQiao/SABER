@@ -1,0 +1,14 @@
+<pojo.IORecord>
+  <methodKey>p5.DummyClass2-getInterestingItem(java.lang.String)java/lang/String</methodKey>
+  <id>211</id>
+  <sortedInputs>
+    <string></string>
+    <int>1</int>
+    <int>35</int>
+    <int>52</int>
+    <string>hi!</string>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>52hi!351</string>
+  </sortedOutputs>
+</pojo.IORecord>

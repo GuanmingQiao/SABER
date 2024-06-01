@@ -1,0 +1,29 @@
+<pojo.IORecord>
+  <methodKey>p6.DummyClass2-addToAndReturnUpdatedValue(IIjava.lang.Strin)I</methodKey>
+  <id>38</id>
+  <sortedInputs>
+    <string></string>
+    <int>10</int>
+    <int>97</int>
+    <int>107</int>
+  </sortedInputs>
+  <sortedOutputs>
+    <xml.XMLWrapper>
+      <obj class="p6.DummyClass2">
+        <name></name>
+        <type>hi!</type>
+        <value>107</value>
+        <numOperations>1</numOperations>
+        <listOfItems>
+          <string></string>
+          <string></string>
+        </listOfItems>
+        <listOfNumbers/>
+        <probability>-1.0</probability>
+        <distanceOfItems>0.0</distanceOfItems>
+      </obj>
+      <deepHash>-1074687060</deepHash>
+    </xml.XMLWrapper>
+    <int>107</int>
+  </sortedOutputs>
+</pojo.IORecord>

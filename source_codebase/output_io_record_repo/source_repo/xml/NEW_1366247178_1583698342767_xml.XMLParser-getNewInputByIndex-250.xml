@@ -1,0 +1,14 @@
+<pojo.IORecord>
+  <methodKey>xml.XMLParser-getNewInputByIndex(I)Ljava/lang/Object;</methodKey>
+  <stackInfo>getNewInputByIndex:test2_SABER_1328037091_1583698251024_setFoo_2:main</stackInfo>
+  <id>250</id>
+  <sortedInputs>
+    <int>0</int>
+    <list>
+      <string>[209, 209]</string>
+    </list>
+  </sortedInputs>
+  <sortedOutputs>
+    <string>[209, 209]</string>
+  </sortedOutputs>
+</pojo.IORecord>
